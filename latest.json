@@ -1,15 +1,15 @@
 {
-  "version": "0.4.3",
-  "notes": "Quadro \"O que há de novo\": depois de cada atualização, mostra as melhorias da versão (até você clicar em Entendi).\nCom o MPL aberto, ele confere a cada 30 minutos se há versão nova.\nA janela abre direto no fundo escuro, sem a tela branca.",
-  "pub_date": "2026-11-14T19:56:14Z",
+  "version": "0.5.0",
+  "notes": "As bases agora são atualizadas pelo próprio programa, direto na Caixa (fonte oficial), sem precisar do MPL.bat.\nSe a Caixa não responder, o MPL usa o espelho, como antes.\nCada resultado é conferido (concurso, quantidade de dezenas, faixa e repetição) antes de entrar na base.",
+  "pub_date": "2026-11-14T22:27:58Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTakVoRnpJbFVzb3JXdU5LdUVVajd4VVpjak5naEt3aDVYWlArTUtWSXJ0aFVPMlhmNGkyU2xETHVsQlBrUFJORGJ0Y25xSFZSdW1idXBnUDliK3Zvd0FIK0tlWjRSWXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njg2MTc0CWZpbGU6TVBMXzAuNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMwpPK0lSallhcWVlL1M5eVJKN1dXdkxkdmM0VFB1QjBzL21YWk1OZlphTXBXa2tNSzYrZlg5ZGYrNlRKTjhjZ3gzTlBJYnBFSTAvRkI0Z2xKbitLY0tDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/YachtZ2/mpl-atualizacoes/versoes/MPL_0.4.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTakVoRnpJbFVzb25CR1c5aWM5TTBWd2syTmNkOFpoY2ZZSFloTk9ydHpnTCtzOGZGRDVyWFFYZ01aNW1LWkRFcmJ6bFVHTmlQbG1nb1JKZUpFVmRNcE52U0s1YUplcUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njk1Mjc4CWZpbGU6TVBMXzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMApHbG1oUkFNRnFDMXJPcmF2a0IyZHh5MHh4WVFYS2EzenBDU1ZRNU1LZzc3YVBldHNXK1ltbFVxQUtMN0VtS3Z1aHlDWGYydDFrODY0SVhlQmhHYi9Bdz09Cg==",
+      "url": "https://raw.githubusercontent.com/YachtZ2/mpl-atualizacoes/versoes/MPL_0.5.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTakVoRnpJbFVzb3JXdU5LdUVVajd4VVpjak5naEt3aDVYWlArTUtWSXJ0aFVPMlhmNGkyU2xETHVsQlBrUFJORGJ0Y25xSFZSdW1idXBnUDliK3Zvd0FIK0tlWjRSWXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njg2MTc0CWZpbGU6TVBMXzAuNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMwpPK0lSallhcWVlL1M5eVJKN1dXdkxkdmM0VFB1QjBzL21YWk1OZlphTXBXa2tNSzYrZlg5ZGYrNlRKTjhjZ3gzTlBJYnBFSTAvRkI0Z2xKbitLY0tDQT09Cg==",
-      "url": "https://raw.githubusercontent.com/YachtZ2/mpl-atualizacoes/versoes/MPL_0.4.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTakVoRnpJbFVzb25CR1c5aWM5TTBWd2syTmNkOFpoY2ZZSFloTk9ydHpnTCtzOGZGRDVyWFFYZ01aNW1LWkRFcmJ6bFVHTmlQbG1nb1JKZUpFVmRNcE52U0s1YUplcUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njk1Mjc4CWZpbGU6TVBMXzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMApHbG1oUkFNRnFDMXJPcmF2a0IyZHh5MHh4WVFYS2EzenBDU1ZRNU1LZzc3YVBldHNXK1ltbFVxQUtMN0VtS3Z1aHlDWGYydDFrODY0SVhlQmhHYi9Bdz09Cg==",
+      "url": "https://raw.githubusercontent.com/YachtZ2/mpl-atualizacoes/versoes/MPL_0.5.0_x64-setup.exe"
     }
   }
 }
