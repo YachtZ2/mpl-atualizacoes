@@ -1,15 +1,15 @@
 {
-  "version": "0.5.1",
-  "notes": "OCA: o \"Tempo estimado\" agora considera o motor turbo (mostra \"até ~X\" até medir; depois, o tempo medido, marcado com ⚡) e o progresso mostra quanto falta.\nImpressão conferida em milímetros: o volante impresso pelo programa sai igual ao da versão HTML.",
-  "pub_date": "2026-11-16T09:40:44Z",
+  "version": "0.5.2",
+  "notes": "Impressor: os modelos de volante agora aparecem com abreviações (SPN, Spt) no lugar de nomes de outros programas. Nada muda nas medidas, calibrações e jogos.",
+  "pub_date": "2026-11-17T18:57:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTakVoRnpJbFVzb3Zuck5xVjEvMzhPVUhzTzN6TkZtbkwwVmpsM3kwVzNkbGhZVmU0ZC9uRSt1RmgxV2Iya2srZlIrNlh3c2d1M0tETHRHYnh3bFFPdUtqMlkrcnh0bkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIyMDQ0CWZpbGU6TVBMXzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpHanowclQwRWtkcnM4bkdKVmtOOVJKVThJVFFabHUxT05jbEh3SFQzMHk4Vjg1U0lPMDhsUHpGY2FORFduMEpPZ1V4TG12RVFQUVBOb3lWMWdDWlZBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/YachtZ2/mpl-atualizacoes/versoes/MPL_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTakVoRnpJbFVzb3NvVU91c2svTTNIRzhuQ0kvVlFjbWFQaHdIc1J1S1dveFpXSUNrVHk1NjlTcGU1dHFzcURPTEtYd21kNHpsYVlyOGxtRzBrT25YaHhxa3R6cXZ2U0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQxODQ4CWZpbGU6TVBMXzAuNS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMgpNSlB6SWU2VHdqS2ZrNnhRWlR5WDBLbzFIVmhBTk5OSzdZTXA4bHVYU0lJdnVMdDZKaVBDc1BGb1RlTkVsRVkwRmNLWjVrd1ZUM1J4T0w0a3RFOU5EZz09Cg==",
+      "url": "https://raw.githubusercontent.com/YachtZ2/mpl-atualizacoes/versoes/MPL_0.5.2_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTakVoRnpJbFVzb3Zuck5xVjEvMzhPVUhzTzN6TkZtbkwwVmpsM3kwVzNkbGhZVmU0ZC9uRSt1RmgxV2Iya2srZlIrNlh3c2d1M0tETHRHYnh3bFFPdUtqMlkrcnh0bkE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODIyMDQ0CWZpbGU6TVBMXzAuNS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMQpHanowclQwRWtkcnM4bkdKVmtOOVJKVThJVFFabHUxT05jbEh3SFQzMHk4Vjg1U0lPMDhsUHpGY2FORFduMEpPZ1V4TG12RVFQUVBOb3lWMWdDWlZBZz09Cg==",
-      "url": "https://raw.githubusercontent.com/YachtZ2/mpl-atualizacoes/versoes/MPL_0.5.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTakVoRnpJbFVzb3NvVU91c2svTTNIRzhuQ0kvVlFjbWFQaHdIc1J1S1dveFpXSUNrVHk1NjlTcGU1dHFzcURPTEtYd21kNHpsYVlyOGxtRzBrT25YaHhxa3R6cXZ2U0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQxODQ4CWZpbGU6TVBMXzAuNS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMgpNSlB6SWU2VHdqS2ZrNnhRWlR5WDBLbzFIVmhBTk5OSzdZTXA4bHVYU0lJdnVMdDZKaVBDc1BGb1RlTkVsRVkwRmNLWjVrd1ZUM1J4T0w0a3RFOU5EZz09Cg==",
+      "url": "https://raw.githubusercontent.com/YachtZ2/mpl-atualizacoes/versoes/MPL_0.5.2_x64-setup.exe"
     }
   }
 }
